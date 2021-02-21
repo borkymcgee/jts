@@ -34,8 +34,8 @@ arguments:
 # alias tip:
 in my .zshrc I have the following aliases:
 ```bash
-alias ws='python3 ~/.jts -i'
-alias we='python3 ~/.jts -o'
-alias ts='python3 ~/.jts -p'
+alias ws='python3 ~/jts -i'
+alias we='python3 ~/jts -o'
+alias ts='python3 ~/jts -p'
 ```
 This lets me quickly and easily clock in, out, and check my progress
