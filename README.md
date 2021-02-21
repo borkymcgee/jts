@@ -8,7 +8,7 @@ stores clocks in and out in a csv file, and displays progress in the current pay
 
 # usage
 ```
-jts [-h] [-i] [-o] [-s] [-d] [-p] [-f TIMESHEET]
+python3 jts [-h] [-i] [-o] [-s] [-d] [-p] [-f TIMESHEET]
             [-D TEST_DATE] [-T TEST_TIME]
 arguments:
   -h, --help            show this help message and exit
